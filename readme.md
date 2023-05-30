@@ -1,5 +1,5 @@
 
-# Customer Analysis Final 
+# Customer Analysis 
 For this project, I will be using the dataset - `marketing_customer_analysis.csv` and files in the Unclean data folder
 
 
